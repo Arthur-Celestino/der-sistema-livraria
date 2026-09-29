@@ -1,6 +1,6 @@
 # Diagrama Entidade-Relacionamento – Livraria
 
-# Professora Ellen Martins Lopes da Silva
+### Professora Ellen Martins Lopes da Silva
 
 ## 📚 Sobre o Projeto
 
